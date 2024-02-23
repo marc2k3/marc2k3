@@ -4,4 +4,4 @@ Docs: https://jscript-panel.github.io/docs/
 
 Download: https://github.com/jscript-panel/release/releases/latest
 
-All other projects have been abandoned.
+Documentation / downloads for projects I've abandoned can be found [here](https://jscript-panel.github.io/other/).
