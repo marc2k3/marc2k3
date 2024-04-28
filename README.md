@@ -4,4 +4,4 @@ Docs: https://jscript-panel.github.io/docs/
 
 Download: https://github.com/jscript-panel/release/releases/latest
 
-Documentation / downloads for other projects can be found [here](https://jscript-panel.github.io/other/).
+Documentation / downloads for other projects can be found [here](https://marc2k3.github.io).
