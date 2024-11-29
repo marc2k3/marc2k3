@@ -1,7 +1,3 @@
-I'm continuing to maintain JScript Panel 3.
+JScript Panel 3: https://jscript-panel.github.io/docs/
 
-Docs: https://jscript-panel.github.io/docs/
-
-Download: https://github.com/jscript-panel/release/releases/latest
-
-Documentation / downloads for other projects can be found [here](https://marc2k3.github.io).
+Other components: https://marc2k3.github.io
